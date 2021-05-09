@@ -72,7 +72,7 @@ public class Cetak {
         System.out.println("=======================");
         System.out.println("Bilangan A: " + opbil.getA());
         System.out.println("Bilangan B: " + opbil.getB());
-        System.out.println("Bilangan A-B: " + bagi.getC());
+        System.out.println("Bilangan A/B: " + bagi.getC());
         
         bagi.tampil();
     }   
